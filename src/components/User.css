@@ -13,11 +13,13 @@
     position: relative;
     left: 10px;
     padding-top: 25px;
+    min-height: 60px;
     
 }
 .PictureBorder{
     border-radius: 70px;
     border-style: outset;
+    min-height: 131px;
 }
 .Info{
 position:relative;
